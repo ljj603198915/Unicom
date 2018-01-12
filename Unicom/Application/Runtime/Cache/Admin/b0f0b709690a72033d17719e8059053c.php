@@ -1,0 +1,17 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+<div style="width: 500px;height:100px;background-image: url(/Application/Home/public/Images/SIEMENS.png);
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+			position: absolute;
+			left: calc(50% - 250px);
+			top: calc(50% - 50px);">
+
+</div>
+</body>
+<html>
