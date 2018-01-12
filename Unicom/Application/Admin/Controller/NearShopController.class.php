@@ -22,8 +22,11 @@ class NearShopController extends AdminController
         $data = I("");
 
         $info = $this->NearShopService->saveNearShop($data);
+
         if($info){
-            return R(1,"成功");
+            echo JsonResult(1,"成功");
+        }else{
+            echo JsonResult(0,"失败");
         }
 
     }

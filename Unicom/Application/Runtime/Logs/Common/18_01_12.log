@@ -778,3 +778,165 @@ INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
 INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
 ERR: 无法加载模块:Application
 
+[ 2018-01-12T21:12:29+08:00 ] ::1 /index.php/A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:A
+
+[ 2018-01-12T21:12:33+08:00 ] ::1 /index.php/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Main
+
+[ 2018-01-12T21:12:33+08:00 ] ::1 /Application/Admin/public/utilLib/fonts/font_awesome/fontawesome-webfontf77b.woff?v=3.2.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:12:33+08:00 ] ::1 /Application/Admin/public/utilLib/fonts/font_awesome/fontawesome-webfontf77b.ttf?v=3.2.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:12:36+08:00 ] ::1 /index.php/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Main
+
+[ 2018-01-12T21:12:36+08:00 ] ::1 /Application/Admin/public/utilLib/fonts/font_awesome/fontawesome-webfontf77b.woff?v=3.2.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:12:36+08:00 ] ::1 /Application/Admin/public/utilLib/fonts/font_awesome/fontawesome-webfontf77b.ttf?v=3.2.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:12:41+08:00 ] ::1 /index.php/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Main
+
+[ 2018-01-12T21:12:41+08:00 ] ::1 /Application/Admin/public/utilLib/fonts/font_awesome/fontawesome-webfontf77b.woff?v=3.2.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:12:41+08:00 ] ::1 /Application/Admin/public/utilLib/fonts/font_awesome/fontawesome-webfontf77b.ttf?v=3.2.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:12:57+08:00 ] ::1 /Application/Admin/public/utilLib/fonts/font_awesome/fontawesome-webfontf77b.woff?v=3.2.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:12:57+08:00 ] ::1 /Application/Home/public/Images/SIEMENS.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:12:57+08:00 ] ::1 /Application/Admin/public/utilLib/fonts/font_awesome/fontawesome-webfontf77b.ttf?v=3.2.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:14:42+08:00 ] ::1 /Application/Admin/public/Js/jquery.validate.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:14:48+08:00 ] ::1 /Application/Admin/public/utilLib/fonts/font_awesome/fontawesome-webfontf77b.woff?v=3.2.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:14:48+08:00 ] ::1 /Application/Admin/public/utilLib/fonts/font_awesome/fontawesome-webfontf77b.ttf?v=3.2.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:14:55+08:00 ] ::1 /Application/Admin/public/Js/jquery.validate.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:15:04+08:00 ] ::1 /Application/Admin/public/Js/jquery.validate.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:15:07+08:00 ] ::1 /Application/Admin/public/Js/jquery.validate.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:17:07+08:00 ] ::1 /Application/Admin/public/Js/jquery.validate.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:17:14+08:00 ] ::1 /Application/Admin/public/Js/jquery.validate.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:17:15+08:00 ] ::1 /Application/Admin/public/Js/jquery.validate.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:17:22+08:00 ] ::1 /Application/Admin/public/Js/jquery.validate.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:17:25+08:00 ] ::1 /Application/Admin/public/Js/jquery.validate.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:17:31+08:00 ] ::1 /Application/Admin/public/utilLib/fonts/font_awesome/fontawesome-webfontf77b.woff?v=3.2.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:17:31+08:00 ] ::1 /Application/Admin/public/utilLib/fonts/font_awesome/fontawesome-webfontf77b.ttf?v=3.2.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2018-01-12T21:17:31+08:00 ] ::1 /Application/Home/public/Images/SIEMENS.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+

@@ -5,25 +5,27 @@ namespace Admin\Controller;
 use Tools\AdminController;
 use Think\Verify;
 
-class ManagerController extends AdminController
+class AdminUserController extends AdminController
 {
 
     function __construct()
     {
-        $this->ManagerService = new \Service\ManagerService();
         parent::__construct();
+        $this->AdminUserService = new \Service\AdminUserService();
+
 
     }
 
     public function login()
     {
 
+        
         if (!empty($_POST)) {
 
             //验证码判断
             $ver = new Verify();
             if ($ver->check($_POST['captcha'])) {
-                $info = $this->ManagerService->CheckNamePwd($_POST['admin_name'], $_POST['admin_pwd']);
+                $info = $this->AdminUserService->CheckNamePwd($_POST['admin_name'], $_POST['admin_pwd']);
                 if ($info) {
                     session('admin_id', $info['id']);
                     session('admin_name', $info['admin_name']);

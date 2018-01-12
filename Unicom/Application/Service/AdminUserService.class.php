@@ -2,18 +2,18 @@
 namespace Service;
 use Think\Controller;
 use Model;
-class ManagerService extends Controller {
+class AdminUserService extends Controller {
 
     function __construct()
     {
         parent::__construct();
-        $this->ManagerModel = new Model\ManagerModel();
+        $this->AdminUserModel = new Model\AdminUserModel();
     }
 
     function CheckNamePwd($name,$pwd){
-        $info = $this->ManagerModel->CheckNamePwd($name);
+        $info = $this->AdminUserModel->CheckNamePwd($name);
         if($info){
-            if($info['admin_pwd']===md5($pwd))
+            if($info['password']===md5($pwd))
                 return $info;
         }
         return null;

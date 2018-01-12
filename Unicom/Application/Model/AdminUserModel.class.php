@@ -1,7 +1,7 @@
 <?php
 namespace Model;
 use Think\Model;
-class ManagerModel extends Model {
+class AdminUserModel extends Model {
     protected $insertFields = array('admin_name','admin_pwd','admin_pwd2',);
     protected $updateFields = array('id','admin_name','admin_pwd');
     // 添加和修改会员时使用的表单验证规则
