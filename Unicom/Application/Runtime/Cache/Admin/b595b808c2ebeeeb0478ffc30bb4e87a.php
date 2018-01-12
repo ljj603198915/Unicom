@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>UNICOM后台管理系统</title>
+<title>后台管理系统</title>
 
 <link rel="stylesheet" href="<?php echo AdminCssUrl;?>index.css" type="text/css" media="screen" />
 
@@ -14,14 +14,14 @@
 <body>
     <!--顶部-->
     <div class="layout_top_header">
-            <div style="float: left"><span style="font-size: 16px;line-height: 45px;padding-left: 20px;color: #8d8d8d">SIEMENS管理后台</h1></span></div>
+            <div style="float: left"><span style="font-size: 16px;line-height: 45px;padding-left: 20px;color: #8d8d8d">UNICOM管理后台</h1></span></div>
             <div id="ad_setting" class="ad_setting">
                 <a class="ad_setting_a" href="javascript:; ">
                     <i class="icon-user glyph-icon" style="font-size: 20px"></i>
                     <span><?php echo ($admin_name); ?></span>
                     <i class="icon-chevron-down glyph-icon"></i>
                 </a>
-                <ul class="dropdown-menu-uu" style="display: none" id="ad_setting_ul">
+                <ul class="dropdown-menu-uu"  id="ad_setting_ul">
                     <li class="ad_setting_ul_li"> <a href="/index.php/Admin/Manager/person" target="menuFrame"><i class="icon-user glyph-icon"></i> 个人中心 </a> </li>
                     <!--<li class="ad_setting_ul_li"> <a href="javascript:;"><i class="icon-cog glyph-icon"></i> 设置 </a> </li>-->
                     <li class="ad_setting_ul_li"> <a href="/index.php/Admin/Manager/logout"><i class="icon-signout glyph-icon"></i> <span class="font-bold">退出</span> </a> </li>

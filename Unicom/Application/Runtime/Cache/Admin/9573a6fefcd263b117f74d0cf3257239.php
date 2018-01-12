@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
 <head>
 	<title>Login One</title>
 	<meta name="keywords" content="" />
@@ -11,8 +11,8 @@
 <body class="templatemo-bg-gray">
 <div class="container">
 	<div class="col-md-12">
-		<h1 class="margin-bottom-15">SIEMENS后台管理系统</h1>
-		<form class="form-horizontal templatemo-container templatemo-login-form-1 margin-bottom-30" role="form" action="__SELF__" method="post">
+		<h1 class="margin-bottom-15">UNICOM后台管理系统</h1>
+		<form class="form-horizontal templatemo-container templatemo-login-form-1 margin-bottom-30" role="form" action="/index.php/Admin/Manager/login.html" method="post">
 			<div class="form-group">
 				<div class="col-xs-12">
 					<div class="control-wrapper">
@@ -34,7 +34,7 @@
 					<div class="control-wrapper">
 						<label for="username" class="control-label fa-label"><span>验证码</span></label>
 						<input type="text" id="inputCode" class="form-control" id="" placeholder="" name="captcha">
-						<span id="code"><img src="__CONTROLLER__/VerifyImg" onclick="this.src='__CONTROLLER__/VerifyImg/' +Math.random()"></span>
+						<span id="code"><img src="/index.php/Admin/Manager/VerifyImg" onclick="this.src='/index.php/Admin/Manager/VerifyImg/' +Math.random()"></span>
 						<P class="help-block">验证码不正确</P>
 					</div>
 				</div>
